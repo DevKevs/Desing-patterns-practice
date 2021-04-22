@@ -1,0 +1,29 @@
+        //public void AñadirAdm(string ced, string code, string nom, string apel, string mail, string tel, string dep, string carg, double p, double h, double sal, double neto)
+        //{
+        //    EmpleadosAdm.Add(new Administrativo() { Cedula = ced, Codigo = code, Nombre = nom, Apellido = apel, Email = mail, Telefono = tel, Departamento = dep, Cargo = carg, PreH = p, HorasT = h, SalarioNeto = neto });
+
+        //}
+        //public void AñadirOpe(string ced, string code, string nom, string apel, string mail, string tel, string dep, string carg, double p, double h, double sal, double neto)
+        //{
+        //    EmpleadosOp.Add(new Operativo() { Cedula = ced, Codigo = code, Nombre = nom, Apellido = apel, Email = mail, Telefono = tel, Departamento = dep, Cargo = carg, PreH = p, HorasT = h, SalarioNeto = neto });
+        //}
+
+ //public void Añadir(string ced, string code, string nom, string apel, string mail, string tel, string dep, string carg, double p, double h, double sal, double neto, int eleccion)
+        //{
+        //    if (eleccion == 2)
+        //    {
+        //        EmpleadosAdm.Add(new Administrativo() { Cedula = ced, Codigo = code, Nombre = nom, Apellido = apel, Email = mail, Telefono = tel, Departamento = dep, Cargo = carg, PreH = p, HorasT = h, SalarioNeto = neto });
+        //    }
+        //    if (eleccion == 3)
+        //    {
+        //        EmpleadosOp.Add(new Operativo() { Cedula = ced, Codigo = code, Nombre = nom, Apellido = apel, Email = mail, Telefono = tel, Departamento = dep, Cargo = carg, PreH = p, HorasT = h, SalarioNeto = neto });
+        //    }
+            
+        //}
+        //public void Mostrar()
+        //{
+        //    for (int i = 0; i <= EmpleadosAdm.Count - 1; i++)
+        //    {
+        //        Console.WriteLine($"MOSTRANDO ADMINISTRATIVO{i + 1}\n\nNombre:{EmpleadosAdm[i].Nombre}\nApellido: {EmpleadosAdm[i].Apellido}\nCodigo: {EmpleadosAdm[i].Codigo}\nCedula: {EmpleadosAdm[i].Cedula}\nEmail: {EmpleadosAdm[i].Email}\nTelefono: {EmpleadosAdm[i].Telefono}\nDepartamento: {EmpleadosAdm[i].Departamento}\nCargo: {EmpleadosAdm[i].Cargo}\nSalario: {EmpleadosAdm[i].Salario}\nSalario bonificado: {EmpleadosAdm[i].SalarioNeto}");
+        //    }
+        //}

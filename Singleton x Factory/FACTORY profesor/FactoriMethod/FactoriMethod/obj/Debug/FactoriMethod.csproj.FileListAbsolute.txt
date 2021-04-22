@@ -1,0 +1,7 @@
+C:\Users\johan\source\repos\FactoriMethod\FactoriMethod\bin\Debug\FactoriMethod.exe.config
+C:\Users\johan\source\repos\FactoriMethod\FactoriMethod\bin\Debug\FactoriMethod.exe
+C:\Users\johan\source\repos\FactoriMethod\FactoriMethod\bin\Debug\FactoriMethod.pdb
+C:\Users\johan\source\repos\FactoriMethod\FactoriMethod\obj\Debug\FactoriMethod.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\FactoriMethod\FactoriMethod\obj\Debug\FactoriMethod.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\FactoriMethod\FactoriMethod\obj\Debug\FactoriMethod.exe
+C:\Users\johan\source\repos\FactoriMethod\FactoriMethod\obj\Debug\FactoriMethod.pdb

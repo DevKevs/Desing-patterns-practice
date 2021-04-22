@@ -1,0 +1,7 @@
+C:\Users\johan\source\repos\ObserverBroker\ObserverBroker\bin\Debug\ObserverBroker.exe.config
+C:\Users\johan\source\repos\ObserverBroker\ObserverBroker\bin\Debug\ObserverBroker.exe
+C:\Users\johan\source\repos\ObserverBroker\ObserverBroker\bin\Debug\ObserverBroker.pdb
+C:\Users\johan\source\repos\ObserverBroker\ObserverBroker\obj\Debug\ObserverBroker.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\ObserverBroker\ObserverBroker\obj\Debug\ObserverBroker.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\ObserverBroker\ObserverBroker\obj\Debug\ObserverBroker.exe
+C:\Users\johan\source\repos\ObserverBroker\ObserverBroker\obj\Debug\ObserverBroker.pdb

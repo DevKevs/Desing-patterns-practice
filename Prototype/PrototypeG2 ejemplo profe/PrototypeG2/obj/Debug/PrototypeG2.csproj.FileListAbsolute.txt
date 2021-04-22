@@ -1,0 +1,7 @@
+C:\Users\johan\source\repos\PrototypeG2\PrototypeG2\bin\Debug\PrototypeG2.exe.config
+C:\Users\johan\source\repos\PrototypeG2\PrototypeG2\bin\Debug\PrototypeG2.exe
+C:\Users\johan\source\repos\PrototypeG2\PrototypeG2\bin\Debug\PrototypeG2.pdb
+C:\Users\johan\source\repos\PrototypeG2\PrototypeG2\obj\Debug\PrototypeG2.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\PrototypeG2\PrototypeG2\obj\Debug\PrototypeG2.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\PrototypeG2\PrototypeG2\obj\Debug\PrototypeG2.exe
+C:\Users\johan\source\repos\PrototypeG2\PrototypeG2\obj\Debug\PrototypeG2.pdb
